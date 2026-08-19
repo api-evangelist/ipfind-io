@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ipfind-io.
 name: ipfind.io
 description: "Geographic location of an IP address or any domain name along with some other useful information"
 url: https://ipfind.io
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis

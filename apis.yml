@@ -39,7 +39,6 @@ apis:
   - name: ipfind.io
     description: "Geographic location of an IP address or any domain name along with some other useful information"
     humanURL: https://ipfind.io
-    baseURL: https://ipfind.io
     tags:
       - Development
     properties:
